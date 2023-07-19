@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Lukas</h1>
 <h3 align="center">I am a Skript Developer and I learn many programming languages!</h3>
 
-- 🔭 I am currently working on [CraftTopia](https://dsc.gg/crafttopia) 
+- 🔭 I am currently working on [NitroMC](https://dsc.gg/nitromcnetwork) 
 
 - 🌱 I am learning **Java, SQL, Python, JS, HTML and CSS**
 
