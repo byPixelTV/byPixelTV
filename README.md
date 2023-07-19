@@ -16,7 +16,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=byPixelTV&show_icons=true&theme=synthwave" alt="byPixelTV" /></p>
-<p></p>![](https://github-readme-streak-stats.herokuapp.com/?user=byPixelTV&theme=nightowl&hide_border=false)<br/></p>
+<p>&nbsp;<img align="center src="https://github-readme-streak-stats.herokuapp.com/?user=byPixelTV&theme=nightowl&hide_border=false"<br/></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
