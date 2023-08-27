@@ -16,6 +16,3 @@
 
 ### 📈 Stats
 [![Discord Presence](https://lanyard.cnrad.dev/api/918149623133143061)](https://discord.com/users/918149623133143061) <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=byPixelTV&show_icons=true&theme=synthwave" alt="byPixelTV" /></p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
