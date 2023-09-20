@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I am Lukas</h1>
 <h3 align="center">I am a Skript Developer and I learn many programming languages!</h3>
 
-- 🔭 I am currently working on [OhioNetwork](https://dsc.gg/OhioNetwork) 
+- 🔭 I am currently working on **[OhioNetwork](https://dsc.gg/OhioNetwork)** 
 
 - 🌱 I am learning **Java, SQL, Python, C#, JS, HTML and CSS**
 
-- 👨‍💻 The most of my projects can be found here [https://github.com/byPixelTV](https://github.com/byPixelTV)
+- 👨‍💻 The most of my projects can be found here **[https://github.com/byPixelTV](https://github.com/byPixelTV)**
 
 - 💬 Ask me for **Skript, Linux Administration**
 
