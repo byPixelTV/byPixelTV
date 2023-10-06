@@ -18,4 +18,4 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/918149623133143061)](https://discord.com/users/918149623133143061) <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=byPixelTV&show_icons=true&theme=synthwave" alt="byPixelTV" /></p>
 
 ## My last listened Spotify song
-
+[![Spotify](https://novatorem-seven-theta.vercel.app/api/spotify)](https://open.spotify.com/user/31qxaadom6ohwugejzlrr4kqrjhm)
