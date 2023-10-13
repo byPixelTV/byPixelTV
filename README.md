@@ -18,4 +18,4 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/918149623133143061)](https://discord.com/users/918149623133143061) [![](https://github-readme-stats.vercel.app/api?username=byPixelTV&theme=dracula&count_private=true&show_icons=true&hide=contribs)](https://bypixeltv.xyz)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EinsLucaaa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=byPixelTV&theme=radical&no-frame=false&no-bg=false&margin-w=4)
