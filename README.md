@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Lukas</h1>
-<h3 align="center">I am a Skript Developer and I learn many programming languages!</h3>
+<h3 align="center">I am a Skript Developer from Germany!</h3>
 
 - 🔭 I am currently working on **[HorizonLegacy](https://dsc.gg/HorizonLegacy)** 
 
