@@ -12,7 +12,8 @@
     
   💬 Ask me for **Skript, Linux Administration**
     
-  📫 How you can reach me: **Discord: [byPixelTV](https://discord.com/users/918149623133143061)**
+
+  📫 You can reach me on [Discord](https://discord.com/users/918149623133143061)**
   
 </h3>
 
