@@ -3,7 +3,7 @@
 <h1 align="left">Hi, I am byPixelTV</h1>
 
 <h3 align="left">
-  🔭 I am currently working on **[HorizonLegacy](https://dsc.gg/HorizonLegacy)** 
+  🔭 I am currently working on https://dsc.gg/HorizonLegacy
   
   🌱 I am learning **Java, SQL, Python, C#, JS, HTML and CSS**
     
