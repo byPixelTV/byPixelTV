@@ -11,11 +11,10 @@
   👨‍💻 The most of my projects can be found here **[https://github.com/byPixelTV](https://github.com/byPixelTV)**
     
   💬 Ask me for **Skript, Linux Administration**
-    
-
-  📫 You can reach me on **[Discord](https://discord.com/users/918149623133143061)**
   
 </h3>
+
+- 📫 You can reach me on **[Discord](https://discord.com/users/918149623133143061)**
 
 --- BEGIN RANDOM STATS NO ONE READS ---
 
