@@ -3,11 +3,15 @@
 <h1 align="left">Hi, I am byPixelTV</h1>
 
 <h3 align="left">
-  - 🔭 I am currently working on **[HorizonLegacy](https://dsc.gg/HorizonLegacy)** 
-  - 🌱 I am learning **Java, SQL, Python, C#, JS, HTML and CSS**
-  - 👨‍💻 The most of my projects can be found here **[https://github.com/byPixelTV](https://github.com/byPixelTV)**
-  - 💬 Ask me for **Skript, Linux Administration**
-  - 📫 How you can reach me: **Discord: [byPixelTV](https://discord.com/users/918149623133143061)**
+  🔭 I am currently working on **[HorizonLegacy](https://dsc.gg/HorizonLegacy)** 
+  
+  🌱 I am learning **Java, SQL, Python, C#, JS, HTML and CSS**
+    
+  👨‍💻 The most of my projects can be found here **[https://github.com/byPixelTV](https://github.com/byPixelTV)**
+    
+  💬 Ask me for **Skript, Linux Administration**
+    
+  📫 How you can reach me: **Discord: [byPixelTV](https://discord.com/users/918149623133143061)**
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
