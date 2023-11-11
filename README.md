@@ -5,6 +5,7 @@
 <h3 align="left">
   🔭 I am currently working on https://dsc.gg/HorizonLegacy
   
+  
   🌱 I am learning **Java, SQL, Python, C#, JS, HTML and CSS**
     
   👨‍💻 The most of my projects can be found here **[https://github.com/byPixelTV](https://github.com/byPixelTV)**
