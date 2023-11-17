@@ -1,6 +1,7 @@
 <img align='left' src='https://cdn.discordapp.com/attachments/959477385626026024/975700403792515122/profile-first-issue-dark.png' width='30%'/> 
 
 <h1 align="left">Hi, I am byPixelTV</h1>
+<h2 align="left">I'm a Minecraft Skript Dev and UI / UX designer</h1>
 
 <h3 align="left">
   
