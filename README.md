@@ -6,9 +6,9 @@
   
   🔭 I am currently working on https://dsc.gg/HorizonLegacy
   
-  🌱 I am learning **Java, SQL, Python, C#, JS, HTML and CSS**
+  🌱 I am learning **Java, Python, C#, JS, and HTML**
     
-  👨‍💻 The most of my projects can be found here **[https://github.com/byPixelTV](https://github.com/byPixelTV)**
+  👨‍💻 I am a UI/UX Designer, a fullstack Web Developer, Minecraft Skript Developer & much more!
     
   💬 Ask me for **Skript, Linux Administration**
   
