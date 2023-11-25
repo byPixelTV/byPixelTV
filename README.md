@@ -11,8 +11,6 @@
   👨‍💻 I am a UI/UX Designer, a fullstack Web Developer, Minecraft Skript Developer & much more!
     
   💬 Ask me for **Skript, Linux Administration**
-
-  📫 You can reach me on **[Discord](https://discord.com/users/918149623133143061)**
   
 </h3>
 
