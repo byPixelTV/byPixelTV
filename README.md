@@ -16,4 +16,4 @@
 
 ### Stats 🚀
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/918149623133143061?idleMessage=Probably%20doing%20something%20else...&bg=d800f5)](https://discord.com/users/918149623133143061)
+[![Discord Presence](https://lanyard.cnrad.dev/api/918149623133143061?theme=light&idleMessage=Probably%20doing%20something%20else...&bg=d800f5)](https://discord.com/users/918149623133143061)
