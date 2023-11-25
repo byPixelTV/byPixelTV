@@ -11,15 +11,11 @@
   👨‍💻 I am a UI/UX Designer, a fullstack Web Developer, Minecraft Skript Developer & much more!
     
   💬 Ask me for **Skript, Linux Administration**
+
+  📫 You can reach me on **[Discord](https://discord.com/users/918149623133143061)**
   
 </h3>
 
-- 📫 You can reach me on **[Discord](https://discord.com/users/918149623133143061)**
+### Stats 🚀
 
---- BEGIN RANDOM STATS NO ONE READS ---
-
-![bypixeltv](https://github-readme-stats.vercel.app/api?username=byPixelTV&show_icons=true&theme=tokyonight&hide=["issues"])
-
-![bypixeltv](https://github-readme-stats.vercel.app/api/top-langs?username=byPixelTV&show_icons=true&theme=tokyonight&layout=compact)
-
---- END RANDOM STATS NO ONE READS ---
+[![Discord Presence](https://lanyard.cnrad.dev/api/918149623133143061)](https://discord.com/users/918149623133143061)
