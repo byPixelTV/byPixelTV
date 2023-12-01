@@ -14,6 +14,8 @@
   
 </h3>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z4R47FM)
+
 ### ------ Stats ------ 🚀
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/918149623133143061?&idleMessage=Probably%20doing%20something%20else...&borderRadius=30px)](https://discord.com/users/918149623133143061) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f0i50m4jcbevvww0rj8uzcg6q&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=0ba800&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=f0i50m4jcbevvww0rj8uzcg6q&redirect=true)
