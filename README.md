@@ -4,13 +4,13 @@
 
 <h3 align="left">
 
-  👨‍💻 I am a **UI/UX Designer, a fullstack Web Developer, Minecraft Skript Developer, Discord Bot Developer & much more!**
+  👨‍💻 I am a **UI/UX Designer, a fullstack Web Developer, Minecraft Skript Developer, Discord Bot Developer & and a fulltime idiot!**
 
   🌱 I am learning **Java, Python, C#, JS, and HTML**
   
   🔭 I am currently working on **[HorizonLegacy.net](https://dsc.gg/HorizonLegacy)** and **[NovaBot](https://github.com/NovaBotTeam)**
     
-  💬 Ask me for **Skript, Linux Administration, and how to waste too much time in Minecraft**
+  💬 Ask me for **Skript, Linux Administration**
   
 </h3>
 
