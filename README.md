@@ -10,7 +10,7 @@
   
   🔭 I am currently working on https://dsc.gg/HorizonLegacy
     
-  💬 Ask me for **Skript, Linux Administration**
+  💬 Ask me for **Skript, Linux Administration, and how to waste too much time in Minecraft**
   
 </h3>
 
