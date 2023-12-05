@@ -4,7 +4,7 @@
 
 <h3 align="left">
 
-  👨‍💻 I am a **UI/UX Designer, a fullstack Web Developer, Minecraft Skript Developer, Discord Bot Developer & and a fulltime idiot!**
+  👨‍💻 I am a **UI/UX Designer, a fullstack Web Developer, Minecraft Skript Developer, a Discord Bot Developer**
 
   🌱 I am learning **Java, Python, C#, JS, and HTML**
   
