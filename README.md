@@ -4,7 +4,7 @@
 
 <h3 align="left">
 
-  👨‍💻 I am a **UI/UX Designer, a fullstack Web Developer, Minecraft Skript Developer, a Discord Bot Developer**
+  👨‍💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fedora&pause=1000&color=F7005D&random=true&width=435&lines=I+am+a+UI%2FUX+Designer;I+am+a+Fullstack+Web+Developer;I+am+a+Minecraft+Skript+Developer;I+am+a+Discord+Bot+Developer)](https://git.io/typing-svg)
 
   🌱 I am learning **Java, Python, C#, JS, and HTML**
   
