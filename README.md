@@ -1,6 +1,6 @@
 <img align='left' src='https://cdn.discordapp.com/attachments/959477385626026024/975700403792515122/profile-first-issue-dark.png' width='30%'/> 
 
-<h1 align="left">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fedora&pause=1000&color=F7005D&random=true&width=435&lines=Hi%2C+I'm+a+UI%2FUX+Designer;Hi%2C+I'm+a+Fullstack+Web+Developer;Hi%2C+I'm+a+Minecraft+Skript+Developer;Hi%2C+I'm+a+Discord+Bot+Developer)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fedora&pause=1000&color=F7005D&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+a+UI%2FUX+Designer;Hi%2C+I'm+a+Fullstack+Web+Developer;Hi%2C+I'm+a+Minecraft+Skript+Developer;Hi%2C+I'm+a+Discord+Bot+Developer)](https://git.io/typing-svg)
 
 <h3 align="left">
 
