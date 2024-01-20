@@ -4,9 +4,9 @@
 
 <h3 align="left">
 
-  👨‍💻 **Skript, Web, Python, Java, Kotlin**
+  👨‍💻 **Skript, Web, Python, Kotlin**
 
-  🌱 I am learning **Java, Python, Kotlin, JS, and HTML**
+  🌱 I am learning **Java, Python, Kotlin, JS**
   
   🔭 I am currently working on **[HorizonLegacy.net](https://dsc.gg/HorizonLegacy)** and **[NovaBot](https://github.com/NovaBotTeam)**
     
