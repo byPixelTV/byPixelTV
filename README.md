@@ -6,7 +6,7 @@
 
   👨‍💻 **Skript, Web, Python, Kotlin**
 
-  🌱 I am learning **Java, Kotlin**
+  🌱 I am learning **Java, Kotlin, Spring Boot, Ktor**
   
   🔭 I am currently working on **[HorizonLegacy.net](https://dsc.gg/HorizonLegacy)** and **[NovaBot](https://github.com/NovaBotTeam)**
     
