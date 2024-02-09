@@ -11,6 +11,8 @@
   🔭 I am currently working on **[HorizonLegacy.net](https://dsc.gg/HorizonLegacy)** and **[NovaBot](https://github.com/NovaBotTeam)**
     
   💬 Ask me for **Skript, Linux Administration**
+
+  [![wakatime](https://wakatime.com/badge/user/018ca7e5-c832-4a55-9a4d-e3c378505c6b.svg)](https://wakatime.com/@018ca7e5-c832-4a55-9a4d-e3c378505c6b)
   
 </h3>
 
