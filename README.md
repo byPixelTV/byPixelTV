@@ -8,7 +8,7 @@
 
   🌱 I am learning **Java, Kotlin, Spring Boot, Ktor**
   
-  🔭 I am currently working on **[HorizonLegacy.net](https://dsc.gg/HorizonLegacy)** and **[NovaBot](https://github.com/NovaBotTeam)**
+  🔭 I am currently working on **[ChromaMC.net](https://dc.chromamc.net)** and **[NovaBot](https://github.com/NovaBotTeam)**
     
   💬 Ask me for **Skript, Linux Administration**
 
