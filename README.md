@@ -1,8 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hey, I'm Lukas from Germany</h1>
-
-###
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka+Semibold&pause=1000&color=5865F2&center=true&vCenter=true&random=true&width=435&lines=%E2%9D%A4%EF%B8%8F+Kotlin%2C+Web%2C+Python%2C+Java%2C+Skript;%E2%9B%8F%EF%B8%8F+Minecraft;%F0%9F%91%91+Discord+Bot+Developer;%F0%9F%9A%80+dc.chromamc.net" alt="Typing SVG" /></a>
 
 <br clear="both">
 
