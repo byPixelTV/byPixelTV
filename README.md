@@ -103,7 +103,7 @@
 ###
 
 <div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=f0i50m4jcbevvww0rj8uzcg6q&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=0ba800&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=f0i50m4jcbevvww0rj8uzcg6q&redirect=true" alt="Widget with the current Spotify song"/>
 </div>
 
 ###
@@ -113,9 +113,17 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=byPixelTV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=byPixelTV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  [![Discord Presence](https://lanyard.cnrad.dev/api/918149623133143061?&idleMessage=Probably%20doing%20something%20else...&borderRadius=30px)](https://discord.com/users/918149623133143061)
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f0i50m4jcbevvww0rj8uzcg6q&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=0ba800&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=f0i50m4jcbevvww0rj8uzcg6q&redirect=true)
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z4R47FM) [![wakatime](https://wakatime.com/badge/user/018ca7e5-c832-4a55-9a4d-e3c378505c6b.svg)](https://wakatime.com/@018ca7e5-c832-4a55-9a4d-e3c378505c6b)
+  <img src="https://lanyard.cnrad.dev/api/918149623133143061?&idleMessage=Probably%20doing%20something%20else...&borderRadius=30px" alt="Discord activity"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">💰 Donate</h2>
+
+<div align="center">
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bypixeltv) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bypixeltv) 
 </div>
 
 ###
