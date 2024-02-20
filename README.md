@@ -112,7 +112,7 @@
 ###
 
 <div align="center">
-    <img src="https://lanyard.cnrad.dev/api/918149623133143061?&idleMessage=Probably%20doing%20something%20else...&borderRadius=30px" alt="Discord activity" style="margin-right: 20px;" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=f0i50m4jcbevvww0rj8uzcg6q&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=0ba800&bar_color_cover=true" alt="Spotify Activity Widget"/>
 </div>
 
 <br clear="both">
