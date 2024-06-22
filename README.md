@@ -105,6 +105,6 @@
   <div style="display: flex; flex-direction: row;">
     <img src="https://lanyard.cnrad.dev/api/918149623133143061?&idleMessage=Probably%20doing%20something%20else...&borderRadius=30px" alt="Discord activity" style="margin-right: 20px;" />
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=f0i50m4jcbevvww0rj8uzcg6q&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Widget" style="margin-right: 20px;" />
-    <img src="https://wakatime.com/badge/user/018ca7e5-c832-4a55-9a4d-e3c378505c6b.svg" alt="WakaTime" />
   </div>
+  <img src="https://wakatime.com/badge/user/018ca7e5-c832-4a55-9a4d-e3c378505c6b.svg" alt="WakaTime" />
 </div>
