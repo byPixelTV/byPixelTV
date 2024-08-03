@@ -95,9 +95,18 @@
 
 ###
 
-<div align="center">
-  <div style="display: flex; flex-direction: row;">
+<h3>
+  <details>
+    <summary align="left">📊〣 Statistics</summary>
+    <p align="center">
+      <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=copyandbuild&theme=dark&count_private=true&hide_border=true&line_height=20" alt="Github stats" width="400px"/></a>
+    </p>
+    <p align="center">
+      <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=copyandbuild&layout=compact&theme=dark&count_private=true&hide_border=true" alt="Top Languages" width="400px"/></a>
+    </p>
+      <div style="display: flex; flex-direction: row;">
     <img src="https://lanyard.cnrad.dev/api/918149623133143061?&idleMessage=Probably%20doing%20something%20else...&borderRadius=30px" alt="Discord activity" style="margin-right: 20px;" />
   </div>
   <img src="https://wakatime.com/badge/user/018ca7e5-c832-4a55-9a4d-e3c378505c6b.svg" alt="WakaTime" />
-</div>
+  </details>
+</h3>
