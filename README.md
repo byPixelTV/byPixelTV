@@ -94,6 +94,9 @@
   <p align="center">
     <img src="https://lanyard.cnrad.dev/api/918149623133143061?&idleMessage=Probably%20doing%20something%20else...&borderRadius=30px" alt="Discord activity" width="400px"/>
   </p>
+  <p align="center" href="https://spotify-github-profile.kittinanx.com/api/view?uid=f0i50m4jcbevvww0rj8uzcg6q&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=f0i50m4jcbevvww0rj8uzcg6q&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify"  />
+  </p>
   <p align="center">
     <a href="#"><img src="https://wakatime.com/badge/user/018ca7e5-c832-4a55-9a4d-e3c378505c6b.svg" alt="WakaTime"/></a>
   </p>
