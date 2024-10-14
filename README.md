@@ -79,24 +79,22 @@
 
 <br clear="both">
 
-<h2 align="center">🚀 Stats that no one cares about</h2>
+<h2 align="center">🚀 Stats</h2>
 
 ###
 
 <h3>
-  <details>
-    <summary align="left">📊〣 Statistics</summary>
-    <p align="center">
-      <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=byPixelTV&theme=dark&count_private=true&hide_border=true&line_height=20" alt="Github stats" width="400px"/></a>
-    </p>
-    <p align="center">
-      <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byPixelTV&layout=compact&theme=dark&count_private=true&hide_border=true" alt="Top Languages" width="400px"/></a>
-    </p>
-    <p align="center">
-      <img src="https://lanyard.cnrad.dev/api/918149623133143061?&idleMessage=Probably%20doing%20something%20else...&borderRadius=30px" alt="Discord activity" width="400px"/>
-    </p>
-    <p align="center">
-      <a href="#"><img src="https://wakatime.com/badge/user/018ca7e5-c832-4a55-9a4d-e3c378505c6b.svg" alt="WakaTime"/></a>
-    </p>
-  </details>
+  <summary align="left">📊〣 Statistics</summary>
+  <p align="center">
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=byPixelTV&theme=dark&count_private=true&hide_border=true&line_height=20" alt="Github stats" width="400px"/></a>
+  </p>
+  <p align="center">
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byPixelTV&layout=compact&theme=dark&count_private=true&hide_border=true" alt="Top Languages" width="400px"/></a>
+  </p>
+  <p align="center">
+    <img src="https://lanyard.cnrad.dev/api/918149623133143061?&idleMessage=Probably%20doing%20something%20else...&borderRadius=30px" alt="Discord activity" width="400px"/>
+  </p>
+  <p align="center">
+    <a href="#"><img src="https://wakatime.com/badge/user/018ca7e5-c832-4a55-9a4d-e3c378505c6b.svg" alt="WakaTime"/></a>
+  </p>
 </h3>
