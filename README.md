@@ -6,27 +6,6 @@
 
 <br clear="both">
 
-<h2 align="center">📱 Socials</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://discord.com/users/918149623133143061" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://youtube.com/@bypixeltv." target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://twitch.tv/bypixeltv_live" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  </a>
-  <a href="https://x.com/@bypixeltv" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
 ###
 
 <br clear="both">
@@ -84,7 +63,6 @@
 ###
 
 <h3>
-  <summary align="left">📊〣 Statistics</summary>
   <p align="center">
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=byPixelTV&theme=dark&count_private=true&hide_border=true&line_height=20" alt="Github stats" width="400px"/></a>
   </p>
