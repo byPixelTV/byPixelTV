@@ -70,5 +70,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=byPixelTV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" width="400px"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=byPixelTV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" width="400px"  />
-  <img src="https://lanyard.cnrad.dev/api/918149623133143061?&idleMessage=Probably%20doing%20something%20else...&borderRadius=30px" alt="Discord activity" width="400px"/>
 </div>
